@@ -9,6 +9,8 @@ jcm4bsq@virginia.edu
 - [x] updated README.md (with the new links)
 - [x] Neary completed Seaborn section within python-graphics.md
 - [x] python3.10.5 install documentation
+- [x] Seaborn data configuration and cleaning up
+
 
 
 
@@ -22,6 +24,5 @@ jcm4bsq@virginia.edu
 
 ## Will Accomplish Today (in order)
 
-- [ ] Seaborn data configuration and cleaning up
 - [ ] Data Management Section for python-graphics
 - [ ] Queue Implementation and Documentation
