@@ -15,7 +15,6 @@ jcm4bsq@virginia.edu
 
 
 ## Have Not Achieved
-- [ ] Seaborn data configuration
 - [ ] Queue implementation and documentation
 - [ ] Pickle Implementation and Documentation
 - [ ] Linux Documentation for Mac
