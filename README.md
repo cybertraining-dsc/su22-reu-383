@@ -23,5 +23,5 @@ jcm4bsq@virginia.edu
 
 ## Will Accomplish Today (in order)
 
-- [ ] Data Management Section for python-graphics
-- [ ] Queue Implementation and Documentation
+- [ ] Data Management Section for python-graphics (33%)
+- [ ] Queue Implementation and Documentation (10%)
