@@ -16,12 +16,14 @@ jcm4bsq@virginia.edu
 
 ## Have Not Achieved
 - [ ] Queue implementation and documentation
-- [ ] Pickle Implementation and Documentation
 - [ ] Linux Documentation for Mac
 - [ ] Keyboard command instructions ^might include with Linux
 - [ ] create a data mangement section of python graphics
+- [ ] Rivanna Tutorial
 
 ## Will Accomplish Today (in order)
 
-- [ ] Data Management Section for python-graphics (33%)
-- [ ] Queue Implementation and Documentation (10%)
+- [ ] Update README.md with the links from RIvanna
+- [ ] Data Management Section for python-graphics (85%)
+- [ ] Queue Implementation and Documentation (15%)
+- [ ] Create Rivanna tutorial for macOS
