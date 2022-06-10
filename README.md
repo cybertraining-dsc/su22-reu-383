@@ -11,6 +11,8 @@ jcm4bsq@virginia.edu
 - [x] python3.10.5 install documentation
 - [x] Seaborn data configuration and cleaning up
 - [x] Update README.md with the links from Rivanna
+- [x] Need a key for pycharm to block format the code
+
 
 
 
@@ -22,9 +24,8 @@ jcm4bsq@virginia.edu
 - [ ] Keyboard command instructions ^might include with Linux
 - [ ] create a data mangement section of python graphics
 - [ ] Rivanna Tutorial
-- [ ] Need a key for pycharm to block format the code
 - [ ] Graphics galley
-- [ ] 
+
 
 ## Will Accomplish Today (in order)
 
