@@ -25,6 +25,7 @@ jcm4bsq@virginia.edu
 - [ ] create a data mangement section of python graphics
 - [ ] Rivanna Tutorial
 - [ ] Graphics galley
+- [ ] joint class and cms tutorial (if not for anyone else, then just for me)
 
 
 ## Will Accomplish Today (in order)
