@@ -36,4 +36,14 @@ jcm4bsq@virginia.edu
 - [ ] What is the cms command?
 - [ ] If we run into complications within our venvs is it just best to remove the whole venv and reinstall everything? If so, why?
 - [ ] How do we pull other repositories (like this one)?
-- [ ] 
+- [ ] What are theo libraries: fastapi, glob, mmap, pickle, resource, and shelve?
+- [ ] What is a cluster environment?
+- [ ] Are there better data structures compared to CSV?
+- [ ] What is the difference between linux and what we run on terminal?
+- [ ] What is an MPI?
+- [ ] What is cloudmesh and who developed it?
+- [ ] What is cloudmesh used for?
+- [ ] What are the "-" commands in the command line? Is there a difference between the command line and terminal?
+- [ ] How does emacs work? (like I know how to edit it, but specifically, how does it work?)
+- [ ] What is git?
+- [ ] What is pip?
