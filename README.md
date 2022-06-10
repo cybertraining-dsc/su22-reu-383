@@ -10,6 +10,8 @@ jcm4bsq@virginia.edu
 - [x] Neary completed Seaborn section within python-graphics.md
 - [x] python3.10.5 install documentation
 - [x] Seaborn data configuration and cleaning up
+- [x] Update README.md with the links from Rivanna
+
 
 
 
@@ -20,10 +22,18 @@ jcm4bsq@virginia.edu
 - [ ] Keyboard command instructions ^might include with Linux
 - [ ] create a data mangement section of python graphics
 - [ ] Rivanna Tutorial
+- [ ] Need a key for pycharm to block format the code
+- [ ] Graphics galley
+- [ ] 
 
 ## Will Accomplish Today (in order)
 
-- [ ] Update README.md with the links from RIvanna
 - [ ] Data Management Section for python-graphics (85%)
 - [ ] Queue Implementation and Documentation (15%)
 - [ ] Create Rivanna tutorial for macOS
+
+## Questions I have that I haven't figured out yet
+- [ ] What is the cms command?
+- [ ] If we run into complications within our venvs is it just best to remove the whole venv and reinstall everything? If so, why?
+- [ ] How do we pull other repositories (like this one)?
+- [ ] 
