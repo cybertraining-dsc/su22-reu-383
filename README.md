@@ -14,40 +14,43 @@ jcm4bsq@virginia.edu
 - [x] Seaborn data configuration and cleaning up
 - [x] Update README.md with the links from Rivanna
 - [x] Need a key for pycharm to block format the code
-
+- [x] pyQueue implementation and documentation (for the book)
+- [x] Graphics galley
+- [x] Data Management Section for python-graphics
 
 
 
 
 
 ## Have Not Achieved
-- [ ] Queue implementation and documentation
 - [ ] Linux Documentation for Mac
 - [ ] Keyboard command instructions ^might include with Linux
-- [ ] create a data mangement section of python graphics
 - [ ] Rivanna Tutorial
-- [ ] Graphics galley
 - [ ] joint class and cms tutorial (if not for anyone else, then just for me)
+- [ ] job queue implementation
+- [ ] yamldb documentation
+- [ ] 
 
 
-## Will Accomplish Today (in order)
+## Will Accomplish HIGHEST PRIORITY FROM THRE ABOVE LIST (in order)
 
-- [ ] Data Management Section for python-graphics (85%)
-- [ ] Queue Implementation and Documentation (15%)
+- [ ] Implement a queue for the different jobs (software)
+- [ ] Figure out fastapi, pickle, glob, shelve, and resource
+- [ ] Create a class and cms tutorial (documentation)
 - [ ] Create Rivanna tutorial for macOS
+- [ ] Update the Earth command from learning about how to create commands. 
+
 
 ## Questions I have that I haven't figured out yet
-- [ ] What is the cms command?
-- [ ] If we run into complications within our venvs is it just best to remove the whole venv and reinstall everything? If so, why?
-- [ ] How do we pull other repositories (like this one)?
-- [ ] What are theo libraries: fastapi, glob, mmap, pickle, resource, and shelve?
-- [ ] What is a cluster environment?
-- [ ] Are there better data structures compared to CSV?
+- [ ] What are the libraries: fastapi, glob, mmap, pickle, resource, and shelve?
 - [ ] What is the difference between linux and what we run on terminal?
 - [ ] What is an MPI?
-- [ ] What is cloudmesh and who developed it?
-- [ ] What is cloudmesh used for?
 - [ ] What are the "-" commands in the command line? Is there a difference between the command line and terminal?
 - [ ] How does emacs work? (like I know how to edit it, but specifically, how does it work?)
 - [ ] What is git?
 - [ ] What is pip?
+- [ ] What is the structure of docopts?
+- [ ] What is docker?
+- [ ] What is containerization, and how does it relate to what we are doing?
+- [ ] What is a REST API?
+
