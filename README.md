@@ -17,6 +17,10 @@ jcm4bsq@virginia.edu
 - [x] pyQueue implementation and documentation (for the book)
 - [x] Graphics galley
 - [x] Data Management Section for python-graphics
+- [x] yamldb documentation
+- [x] job queue implementation
+
+
 
 
 
@@ -27,18 +31,13 @@ jcm4bsq@virginia.edu
 - [ ] Keyboard command instructions ^might include with Linux
 - [ ] Rivanna Tutorial
 - [ ] joint class and cms tutorial (if not for anyone else, then just for me)
-- [ ] job queue implementation
-- [ ] yamldb documentation
-- [ ] 
 
 
 ## Will Accomplish HIGHEST PRIORITY FROM THRE ABOVE LIST (in order)
 
-- [ ] Implement a queue for the different jobs (software)
 - [ ] Figure out fastapi, pickle, glob, shelve, and resource
 - [ ] Create a class and cms tutorial (documentation)
 - [ ] Create Rivanna tutorial for macOS
-- [ ] Update the Earth command from learning about how to create commands. 
 
 
 ## Questions I have that I haven't figured out yet
